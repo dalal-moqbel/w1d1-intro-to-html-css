@@ -1,0 +1,21 @@
+p {
+ text-decoration:underline;
+ font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+
+}
+h1{
+    color:royalblue;
+    font-size: 20px;
+}
+li {
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  
+}
+
+h2{
+  color:green;
+  font-family: 'Times';
+}
+class =body1{
+    text-algin: center;
+}
